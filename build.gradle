@@ -1,4 +1,5 @@
 apply plugin: 'java'
+apply plugin: "eclipse"
 
 /*
 task compile1(type: JavaCompile) {
