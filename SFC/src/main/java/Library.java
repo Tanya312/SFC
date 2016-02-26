@@ -6,7 +6,7 @@ dca*
  */
 public class Library {
     public boolean someLibraryMethod() {
-    	System.out.println("Goody Mghorghning...i. 9211");
+    	System.out.println("Good Morning...");
     	System.out.println("World!!!!");
         return true;
     }
