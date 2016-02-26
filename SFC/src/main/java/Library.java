@@ -6,7 +6,7 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
-    	System.out.println("Hello!");
+    	System.out.println("Hello...");
     	System.out.println("World!!!!");
         return true;
     }
